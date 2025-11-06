@@ -16,6 +16,9 @@ This is the **root directory** — your Git repository (`git init` here).
 Inside it, you’ll organize everything for all 3 members.
 
 ---
+## Objections
+Identify Fishing links or spam mail
+Detect Unsual activity
 
 ## 📁 **FULL DIRECTORY STRUCTURE**
 
